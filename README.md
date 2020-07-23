@@ -7,8 +7,7 @@ I'm a rising senior studying Networked and Social Systems Engineering (B.S.E.) a
 🔭 I’m currently working on ...
 
 - [Catacomb](https://github.com/catacomb-ai/catacomb), a library of tools to better understand the quality of machine learning models.
-- [Turkish Judge](https://github.com/mukund-v/turkish-judge), a platform for crowd-based adjudication of rejected tasks on Amazon Mechanical Turk.
-- Training machine learning models to translate Python code to it's English intent.
+- Training machine translation models to convert Python code into it's English intent.
 
 <!--
 **mukund-v/mukund-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
