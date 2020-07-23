@@ -4,11 +4,11 @@
 
 I'm a rising senior studying Networked and Social Systems Engineering (B.S.E.) and Data Science (M.S.E.) at Penn.
 
-🔭 I’m currently working on ...
+🔭  I’m currently working on ...
 - [Catacomb](https://github.com/catacomb-ai/catacomb), a library of tools to better understand the quality of machine learning models.
 - Training machine translation models to convert Python code into it's English intent.
 
-🌱 I’m currently learning ...
+🌱  I’m currently learning ...
 - How to train translation models in [Fairseq](https://github.com/pytorch/fairseq)
 
 <!--
