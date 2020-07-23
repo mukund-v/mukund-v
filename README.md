@@ -9,7 +9,7 @@ I'm a rising senior studying Networked and Social Systems Engineering (B.S.E.) a
 - Training machine translation models to convert Python code into it's English intent.
 
 🌱 I’m currently learning ...
-- [Fairseq](https://github.com/pytorch/fairseq)
+- How to train translation models in [Fairseq](https://github.com/pytorch/fairseq)
 
 <!--
 **mukund-v/mukund-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
