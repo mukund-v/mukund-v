@@ -4,11 +4,11 @@
 
 I'm a rising senior studying Networked and Social Systems Engineering (B.S.E.) and Data Science (M.S.E.) at Penn.
 
-Currently, I'm building [Catacomb](github.com/catacomb-ai/catacomb), a library of tools to better understand the quality of machine learning models.
+🔭 I’m currently working on ...
 
-I'm also working on a few projects with Penn NLP including [Turkish Judge](github.com/mukund-v/turkish-judge) and machine translation models to translate Python code to it's English intent.
-
-See my [website](mukund-v.github.io) for more about me.
+- [Catacomb](github.com/catacomb-ai/catacomb), a library of tools to better understand the quality of machine learning models.
+- [Turkish Judge](github.com/mukund-v/turkish-judge), a platform for crowd-based adjudication of rejected tasks on Amazon Mechanical Turk.
+- Training machine learning models to translate Python code to it's English intent.
 
 <!--
 **mukund-v/mukund-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
