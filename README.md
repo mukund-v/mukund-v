@@ -5,8 +5,8 @@
 I'm a rising senior studying Networked and Social Systems Engineering (B.S.E.) and Data Science (M.S.E.) at Penn.
 
 🔭  I’m currently working on ...
-- [Catacomb](https://github.com/catacomb-ai/catacomb), a scalable infrastructure for deployment of machine learning prototypes, allowing you to demo, share, and play with models without dealing with containerization or web development.
-- Training machine translation models to convert Python code into it's English intent.
+- [Catacomb](https://github.com/catacomb-ai/catacomb), a scalable infrastructure for deployment of machine learning prototypes, allowing you to demo, share, and play with models without dealing with containerization or web development
+- Training machine translation models to convert Python code into it's English intent
 
 🌱  I’m currently learning ...
 - How to train translation models in [Fairseq](https://github.com/pytorch/fairseq)
