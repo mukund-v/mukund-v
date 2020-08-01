@@ -10,6 +10,7 @@ I'm a rising senior studying Networked and Social Systems Engineering (B.S.E.) a
 
 🌱  I’m currently learning ...
 - How to train translation models in [Fairseq](https://github.com/pytorch/fairseq)
+- How to build [React](https://reactjs.org/) apps
 
 <!--
 **mukund-v/mukund-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
