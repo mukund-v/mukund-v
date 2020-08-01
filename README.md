@@ -5,7 +5,7 @@
 I'm a rising senior studying Networked and Social Systems Engineering (B.S.E.) and Data Science (M.S.E.) at Penn.
 
 🔭  I’m currently working on ...
-- [Catacomb](https://github.com/catacomb-ai/catacomb), a library of tools to better understand the quality of machine learning models.
+- [Catacomb](https://github.com/catacomb-ai/catacomb), a library of tools to better understand the quality of machine learning models
 - Training machine translation models to convert Python code into it's English intent
 
 🌱  I’m currently learning ...
@@ -13,7 +13,7 @@ I'm a rising senior studying Networked and Social Systems Engineering (B.S.E.) a
 - How to build [React](https://reactjs.org/) apps
 
 <!--
-**mukund-v/mukund-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mukund-v/mukund-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
