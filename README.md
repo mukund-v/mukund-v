@@ -5,7 +5,7 @@
 I'm a rising senior studying Networked and Social Systems Engineering (B.S.E.) and Data Science (M.S.E.) at Penn.
 
 🔭  I’m currently working on ...
-- [Catacomb](https://github.com/catacomb-ai/catacomb), a library of tools to better understand the quality of machine learning models.
+- [Catacomb](https://github.com/catacomb-ai/catacomb), a scalable infrastructure for deployment of machine learning prototypes, allowing you to demo, share, and play with models without dealing with containerization or web development.
 - Training machine translation models to convert Python code into it's English intent.
 
 🌱  I’m currently learning ...
