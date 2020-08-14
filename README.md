@@ -9,7 +9,7 @@ I'm a rising senior studying Networked and Social Systems Engineering (B.S.E.) a
 - Training machine translation models to convert Python code into it's English intent
 
 🌱  I’m currently learning ...
-- How to train pointer generator networks in Fairseq
+- How to train pointer generator networks in OpenNMT
 - TypeScript
 
 <!--
