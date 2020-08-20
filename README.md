@@ -6,6 +6,7 @@ I'm a rising senior studying Networked and Social Systems Engineering (B.S.E.) a
 
 🔭  I’m currently working on ...
 - [Catacomb](https://github.com/catacomb-ai/catacomb), a library of tools to better understand the quality of machine learning models
+- Turkish Judge, a peer evaluation framework for Amazon Mechanical Turk
 - Training machine translation models to convert Python code into it's English intent
 
 🌱  I’m currently learning ...
