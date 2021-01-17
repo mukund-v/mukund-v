@@ -2,7 +2,7 @@
 
 > I like training machine learning models to solve various problems and sometimes building applications around them.
 
-I'm a rising senior studying Networked and Social Systems Engineering (B.S.E.) and Data Science (M.S.E.) at Penn.
+I'm a senior studying Networked and Social Systems Engineering (B.S.E.) and Data Science (M.S.E.) at Penn.
 
 🔭  I’m currently working on ...
 - [Catacomb](https://github.com/catacomb-ai/catacomb), a library of tools to better understand the quality of machine learning models
