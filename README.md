@@ -5,13 +5,7 @@
 I'm a senior studying Networked and Social Systems Engineering (B.S.E.) and Data Science (M.S.E.) at Penn.
 
 🔭  I’m currently working on ...
-- [Catacomb](https://github.com/catacomb-ai/catacomb), a library of tools to better understand the quality of machine learning models
-- Turkish Judge, a peer evaluation framework for Amazon Mechanical Turk
-- Training machine translation models to convert Python code into it's English intent
-
-🌱  I’m currently learning ...
-- How to train translation models in OpenNMT
-- TypeScript
+- LISA, an artificially intelligent leasing assistant
 
 <!--
 **mukund-v/mukund-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
