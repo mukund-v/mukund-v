@@ -5,7 +5,7 @@
 I'm a senior studying Networked and Social Systems Engineering (B.S.E.) and Data Science (M.S.E.) at Penn.
 
 🔭  I’m currently working on ...
-- LISA, an artificially intelligent leasing assistant
+- LISA, an artificially intelligent leasing assistant @ Appfolio
 
 <!--
 **mukund-v/mukund-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
