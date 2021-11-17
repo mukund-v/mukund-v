@@ -1,12 +1,5 @@
 ## Hey, I'm [Mukund](https://mukund-v.github.io).
 
-> I like training machine learning models to solve various problems and sometimes building applications around them.
-
-I'm a senior studying Networked and Social Systems Engineering (B.S.E.) and Data Science (M.S.E.) at Penn.
-
-🔭  I’m currently working on ...
-- chilling for a bit before i start working fulltime 🌴
-
 <!--
 **mukund-v/mukund-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
